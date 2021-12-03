@@ -61,7 +61,7 @@
 -define(MAX_SIZE, 1000).
 -define(WARN, true).
 -define(CACHE_MISSED, true).
--define(LRU, true).
+-define(LRU, false).
 -define(LIFETIME, 600). %% 10 minutes
 
 %%====================================================================
